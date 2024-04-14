@@ -163,6 +163,9 @@ body {
     border-radius: 5px;
     background-color: #f9f9f9;
    }
+   .card:hover {
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
+  }
    .row {
     margin: 5%;
     padding: 20px;
